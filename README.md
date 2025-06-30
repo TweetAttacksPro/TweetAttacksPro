@@ -46,53 +46,13 @@ Desktop software — full control without API limitations
 
 🛠️ Other Popular Twitter Automation Tools
 
-Tool
-
-Type
-
-Key Features
-
-Website
-
-XBeast
-
-Desktop App
-
-Auto posts, DMs, retweets
-
-Visit
-
-Twittmate
-
-Cloud-Based
-
-Auto follow, auto unfollow
-
-Visit
-
-Hypefury
-
-SaaS (Cloud)
-
-Scheduling, threads, auto retweet
-
-Visit
-
-Typefully
-
-SaaS (Cloud)
-
-Drafting, scheduling, analytics
-
-Visit
-
-TweetHunter
-
-SaaS (Cloud)
-
-AI tweet writing, scheduling
-
-Visit
+| Tool           | Type           | Key Features                      | Website                       |
+|----------------|----------------|------------------------------------|-------------------------------|
+| **XBeast**     | Desktop App    | Auto posts, DMs, retweets         | [Visit](https://xbeast.com)   |
+| **Twittmate**  | Cloud-Based    | Auto follow, auto unfollow        | [Visit](https://twittmate.com)|
+| **Hypefury**   | SaaS (Cloud)   | Scheduling, threads, auto retweet | [Visit](https://hypefury.com) |
+| **Typefully**  | SaaS (Cloud)   | Drafting, scheduling, analytics   | [Visit](https://typefully.com)|
+| **TweetHunter**| SaaS (Cloud)   | AI tweet writing, scheduling      | [Visit](https://tweethunter.io)|
 
 📚 Resources & Tutorials
 
