@@ -98,7 +98,9 @@ If you find this repo useful, give it a ⭐ star and check out TweetAttacksPro �
 
 📩 Contact
 
-Need help or have questions?Email: support@tweetattackspro.comWebsite: https://www.tweetattackspro.com
+Need help or have questions?
+Email: tweetattackspro2000@outlook.com
+Website: https://www.tweetattackspro.com
 
 
 
@@ -106,9 +108,9 @@ Need help or have questions?Email: support@tweetattackspro.comWebsite: https://w
 
 Follow for updates and new releases!
 
-Twitter: @TweetAttacksPro
+Telegram: t.me/tweetattackspro2000
 
-Telegram: t.me/twitterbotpromote
+Telegram group: t.me/twitterbotpromote
 
 License
 
