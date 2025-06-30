@@ -87,12 +87,4 @@ But not all automation tools are the same — choosing the right one depends on 
 
 If you find this comparison useful, ⭐ star this repo and check out [**TweetAttacksPro**](https://www.tweetattackspro.com) — the most advanced Twitter automation software for growth.
 
----
 
-## License
-
-This repository is for educational and informational purposes only. Use automation tools responsibly and in compliance with Twitter's Terms of Service.
-
----
-
-## 🚀 Powered by **TweetAttacksPro**
